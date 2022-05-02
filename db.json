@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "1. Tìm hiểu về ngành IT",
+      "description": "Để theo ngành IT - Phần mềm cần rèn luyện những kỹ năng nào? Bạn đã có sẵn tố chất phù hợp với ngành chưa? Cùng thăm quan các công ty IT và tìm hiểu về văn hóa, tác phong làm việc của ngành này nhé các bạn."
+    },
+    {
+      "name": "2 JavaScript",
+      "description": "Với HTML, CSS bạn mới chỉ xây dựng được các websites tĩnh, chỉ bao gồm phần giao diện và gần như chưa có xử lý tương tác gì. Để thêm nhiều chức năng phong phú và tăng tính tương tác cho website bạn cần học Javascript.",
+      "id": 2
+    },
+    {
+      "name": "3. HTML và CSS",
+      "description": "Để học web Front-end chúng ta luôn bắt đầu với ngôn ngữ HTML và CSS, đây là 2 ngôn ngữ có mặt trong mọi website trên internet. Trong khóa học này F8 sẽ chia sẻ từ những kiến thức cơ bản nhất. Sau khóa học này bạn sẽ tự làm được 2 giao diện websites là The Band và Shopee.",
+      "id": 3
+    },
+    {
+      "name": "sdafasdfgfsda",
+      "description": "asdgsdf",
+      "id": 7
+    },
+    {
+      "name": "sdafasdfgfsd12a",
+      "description": "asdgsdf",
+      "id": 8
+    }
+  ]
+}
